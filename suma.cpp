@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*Agregar comentario*/
 main()
 {
 	int n1, n2;
